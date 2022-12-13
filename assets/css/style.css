@@ -1,0 +1,28 @@
+body {
+  font-family: Roboto;
+  font-weight: 300;
+}
+h1 {
+  font-size: 300%;
+  font-weight: 900;
+}
+.center {
+  text-align: center;
+}
+.contacts {
+  color: darkgray;
+  text-decoration: none;
+}
+.title {
+  font-weight: 900;
+  font-size: 200%;
+  border-bottom: 1px solid gray;
+  border-top: 2px solid gray;
+}
+.subtitle {
+  font-weight: 700;
+  font-size: 100%;
+}
+.thin {
+  font-weight: 300;
+}
